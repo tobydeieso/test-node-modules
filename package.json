@@ -1,0 +1,19 @@
+{
+  "name": "custom-node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tdeieso@bitbucket.org/tdeieso/custom-node-modules.git"
+  },
+  "author": "Toby De Ieso",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tdeieso/custom-node-modules#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
