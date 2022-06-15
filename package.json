@@ -29,6 +29,7 @@
     "gulp-scorm-manifest": "https://github.com/janison-tdeieso/gulp-scorm-manifest/tarball/master",
     "gulp-sourcemaps": "3.0.0",
     "gulp-uglify": "3.0.2",
+    "gulp-zip": "5.1.0",
     "sass": "1.52.3",
     "scss-resets": "0.5.2"
   }
